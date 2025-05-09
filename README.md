@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
