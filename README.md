@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0055-jump-game) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
