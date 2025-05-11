@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0055-jump-game) |
+| [1013-fibonacci-number](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
