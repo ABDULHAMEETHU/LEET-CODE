@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,4 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
