@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/1013-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
