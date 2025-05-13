@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0274-h-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
