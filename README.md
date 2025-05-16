@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0274-h-index) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
