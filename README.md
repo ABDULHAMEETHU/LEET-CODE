@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0242-valid-anagram) |
 ## Counting
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0013-roman-to-integer) |
 | [1013-fibonacci-number](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0242-valid-anagram) |
