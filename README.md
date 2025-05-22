@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0274-h-index) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0274-h-index) |
@@ -54,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
@@ -101,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/1791-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ABDULHAMEETHU/LEET-CODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
